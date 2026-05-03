@@ -3,3 +3,4 @@ cd mi-primer-repo
 git pull
 git add .
 git commit -m "Agrego archivo hola.txt"
+git push
