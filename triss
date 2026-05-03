@@ -1,3 +1,5 @@
 git clone https://github.com/tu-usuario/mi-primer-repo.git
 cd mi-primer-repo
 git pull
+git add .
+git commit -m "Agrego archivo hola.txt"
